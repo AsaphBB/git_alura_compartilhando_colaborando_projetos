@@ -22,8 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-<<<<<<< Updated upstream
-=======
 # sdasdadsa
 
 #
@@ -31,4 +29,3 @@ hs_err_pid*
 # testando o stash linha feita apos stash
 
 # segundo stash
->>>>>>> Stashed changes
